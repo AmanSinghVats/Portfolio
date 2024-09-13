@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Flight Delay Prediction",
+    "desc": "Used Python and key libraries like Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn to predict flight delays.",
+    "image": "flight1",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/Flight-Delay-Prediction-Model"
+    }
+  },
+  
+  {
+    "name": "Calorie Burnt Prediction",
+    "desc": "Built an XGBoost machine learning model predicting calories burnt, leveraging Jupyter Notebooks and Python libraries for data preprocessing and accurate results.",
+    "image": "calorie",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/Calories-Burnt-Prediction.git"
+    }
+  },
+
+  {
+    "name": "ExpendLight",
+    "desc": "Using React.js, Firebase, and Google OAuth built an expense tracker that allows for safe login and real-time tracking while also providing a responsive, user-friendly interface with HTML, CSS, and JavaScript",
+    "image": "money",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/ExpenseLight.git"
+    }
+  },
+  
+  {
+    "name": "IPL Winning Prediction",
+    "desc": "Built an IPL win probability predictor using logistic regression, leveraging ball-by-ball data from 2009-2024. Deployed via Streamlit, achieving 81% accuracy with Pandas, NumPy, and Pickle.",
+    "image": "ipl",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/IPL-Win-Prediction.git"
+    }
+  },
+
+  {
+    "name": "HealthPro+ : Diet and Fitness Planning Management Website",
+    "desc": "Designed a frontend of a website named Heathpro+, a diet and fitness management website, using HTML, CSS and JavaScript that will track the user's overall health habits.",
+    "image": "healthpro",
+    "links": {
+      "code": "https://healthifypro.github.io/HealthPro-/"
+    }
+  },
+
+  {
+    "name": "Analysis of Smartphones Sales Data of Flipkart",
+    "desc": "Performed data cleaning and manipulation, and exploratory data analysis using pandas, matplotlib, and seaborn libraries. Improved sales by identifying most selling brand and different specifications.",
+    "image": "analysis",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/Analysis-of-Smartphone-Sales-Data-of-Flipkart"
+    }
+  },
+
+  {
+    "name": "HospitEase",
+    "desc": "It offers an intuitive interface and sensure a seamless user experience",
+    "image": "hospital",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/HospitEase.git"
+    }
+  },
+
+  {
+    "name": "E-Commerce sales Dashboard",
+    "desc": "Technology Used - Microsoft Power BI, CSV, Kaggle. Created an interactive online sales data amalysis dasboard. ",
+    "image": "sales_dashboard",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/Power-BI-Project.git"
+    }
+  },
+
+  {
+    "name": "Rock vs Mine Prediction",
+    "desc": "Technology Used - Machine Learning, Python, Logistic Regression Model, Jupyter Notebooks, Sklearn, Pandas, Numpy, CSV. Utilized Python to develop a system for classifying objects as either rocks or mines using SONAR data.",
+    "image": "rock_vs_mine",
+    "links": {
+      "code": "https://github.com/AmanSinghVats/Rock-vs-Mine-Prediction.git"
+    }
+  }
+
+]
